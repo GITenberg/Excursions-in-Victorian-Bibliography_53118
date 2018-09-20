@@ -1,0 +1,35 @@
+_repo: Excursions-in-Victorian-Bibliography_53118
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sadleir, Michael
+    aliases:
+    - Sadler, Michael T. H. (Michael Thomas Harvey)
+    - Sadler, M. T. H. (Michael Thomas Harvey)
+    birthdate: 1888
+    deathdate: 1957
+    gutenberg_agent_id: '1764'
+    url: http://www.gutenberg.org/2009/agents/1764
+description: ''
+gutenberg_issued: '2016-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53118'
+  lccn: '22012661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Melville, Herman, 1819-1891 -- First editions -- Bibliography'
+- !lcsh 'English literature -- 19th century -- Bibliography'
+- !lcsh 'English literature -- First editions -- Bibliography'
+- !lcc 'Z'
+- GITenberg
+tableOfContents: 'Anthony Trollope: essay and bibliography -- Frederick Marryat: essay
+  and bibliography -- Benjamin Disraeli: essay and bibliography -- Wilkie Collins:
+  essay and bibliography -- Charles Reade: note and bibliography -- G. J. Whyte-Melville:
+  essay and bibliography -- Elizabeth Cleghorn Gaskell: bibliography -- Herman Melville:
+  essay and bibliography -- Index of book titles.'
+title: Excursions in Victorian Bibliography
+url: http://www.gutenberg.org/ebooks/53118
